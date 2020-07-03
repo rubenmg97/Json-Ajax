@@ -1,0 +1,11 @@
+C:\Users\ruben\source\repos\SolPersona\BussinesPersona\bin\Debug\BussinesPersona.dll
+C:\Users\ruben\source\repos\SolPersona\BussinesPersona\bin\Debug\BussinesPersona.pdb
+C:\Users\ruben\source\repos\SolPersona\BussinesPersona\bin\Debug\DataPersona.dll
+C:\Users\ruben\source\repos\SolPersona\BussinesPersona\bin\Debug\EntityPersona.dll
+C:\Users\ruben\source\repos\SolPersona\BussinesPersona\bin\Debug\DataPersona.pdb
+C:\Users\ruben\source\repos\SolPersona\BussinesPersona\bin\Debug\EntityPersona.pdb
+C:\Users\ruben\source\repos\SolPersona\BussinesPersona\obj\Debug\BussinesPersona.csprojAssemblyReference.cache
+C:\Users\ruben\source\repos\SolPersona\BussinesPersona\obj\Debug\BussinesPersona.csproj.CoreCompileInputs.cache
+C:\Users\ruben\source\repos\SolPersona\BussinesPersona\obj\Debug\BussinesPersona.csproj.CopyComplete
+C:\Users\ruben\source\repos\SolPersona\BussinesPersona\obj\Debug\BussinesPersona.dll
+C:\Users\ruben\source\repos\SolPersona\BussinesPersona\obj\Debug\BussinesPersona.pdb

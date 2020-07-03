@@ -1,0 +1,6 @@
+C:\Users\ruben\source\repos\SolPersona\DataPersona\bin\Debug\DataPersona.dll
+C:\Users\ruben\source\repos\SolPersona\DataPersona\bin\Debug\DataPersona.pdb
+C:\Users\ruben\source\repos\SolPersona\DataPersona\obj\Debug\DataPersona.csprojAssemblyReference.cache
+C:\Users\ruben\source\repos\SolPersona\DataPersona\obj\Debug\DataPersona.csproj.CoreCompileInputs.cache
+C:\Users\ruben\source\repos\SolPersona\DataPersona\obj\Debug\DataPersona.dll
+C:\Users\ruben\source\repos\SolPersona\DataPersona\obj\Debug\DataPersona.pdb

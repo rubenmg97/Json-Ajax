@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AjaxJqueryJson", "AjaxJqueryJson\AjaxJqueryJson.csproj", "{B0509F12-2BBF-48B1-89EC-D9A595262CE6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.IU", "1.IU", "{7FD1E71F-0A05-40F5-882C-1B2BFB96930A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Bussines", "2.Bussines", "{EE721BE0-F7E3-4276-B0E6-C6AC2F15F4AC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Data", "3.Data", "{5946D58D-C21D-47D8-8C8C-B33CF85F1DC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BussinesPersona", "BussinesPersona\BussinesPersona.csproj", "{B8FF22AF-AE44-4E77-B633-DCF7FFDEF2A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityPersona", "EntityPersona\EntityPersona.csproj", "{43ECE0BB-6A86-43F0-98D5-58DDB16E09C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataPersona", "DataPersona\DataPersona.csproj", "{446FA72E-28AB-4509-A039-1932EC0B0F26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0509F12-2BBF-48B1-89EC-D9A595262CE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0509F12-2BBF-48B1-89EC-D9A595262CE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0509F12-2BBF-48B1-89EC-D9A595262CE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0509F12-2BBF-48B1-89EC-D9A595262CE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8FF22AF-AE44-4E77-B633-DCF7FFDEF2A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8FF22AF-AE44-4E77-B633-DCF7FFDEF2A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8FF22AF-AE44-4E77-B633-DCF7FFDEF2A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8FF22AF-AE44-4E77-B633-DCF7FFDEF2A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43ECE0BB-6A86-43F0-98D5-58DDB16E09C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43ECE0BB-6A86-43F0-98D5-58DDB16E09C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43ECE0BB-6A86-43F0-98D5-58DDB16E09C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43ECE0BB-6A86-43F0-98D5-58DDB16E09C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{446FA72E-28AB-4509-A039-1932EC0B0F26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{446FA72E-28AB-4509-A039-1932EC0B0F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{446FA72E-28AB-4509-A039-1932EC0B0F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{446FA72E-28AB-4509-A039-1932EC0B0F26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B0509F12-2BBF-48B1-89EC-D9A595262CE6} = {7FD1E71F-0A05-40F5-882C-1B2BFB96930A}
+		{B8FF22AF-AE44-4E77-B633-DCF7FFDEF2A0} = {EE721BE0-F7E3-4276-B0E6-C6AC2F15F4AC}
+		{43ECE0BB-6A86-43F0-98D5-58DDB16E09C6} = {EE721BE0-F7E3-4276-B0E6-C6AC2F15F4AC}
+		{446FA72E-28AB-4509-A039-1932EC0B0F26} = {5946D58D-C21D-47D8-8C8C-B33CF85F1DC4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4B276FC-EFBC-4049-948F-EC90B67D55A8}
+	EndGlobalSection
+EndGlobal
